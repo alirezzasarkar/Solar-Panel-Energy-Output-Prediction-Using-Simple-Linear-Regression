@@ -1,0 +1,1 @@
+# Solar-Panel-Energy-Output-Prediction-Using-Simple-Linear-Regression
